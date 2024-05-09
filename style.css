@@ -1,0 +1,27 @@
+html {
+  padding: 5%;
+  font-family: "Open Sans", sans-serif;
+  background-color: #f4acb7;
+}
+
+button {
+  padding: 16px;
+  margin-right: 32px;
+  font-size: 16px;
+  border-radius: 50px;
+  border: none;
+  background-color: #b23871;
+  color: #ffe5d9;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 16px;
+}
